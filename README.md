@@ -1,4 +1,4 @@
-# Dennis Kranja Wambui | Portfolio
+# Dennis Karanja Wambui | Portfolio
 
 Web developer learning networking, web security and cybersecurity.
 Static site: open `index.html` in a browser, or deploy the folder on Vercel.
